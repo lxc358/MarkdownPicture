@@ -21,4 +21,8 @@
 ##三.第三方集成类
 ##四.开发工具使用类
 ###  ###
-##五.杂项	3
+##五.杂项	
+### 1.多渠道打包
+[https://blog.csdn.net/u010622801/article/details/80592877](https://blog.csdn.net/u010622801/article/details/80592877)
+
+		：推荐使用美团打包
