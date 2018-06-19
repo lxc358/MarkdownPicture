@@ -20,6 +20,11 @@
 ##二.网络请求类
 ##三.第三方集成类
 ##四.开发工具使用类
+### 1.Android studio常用插件 ###
+[https://blog.csdn.net/crazy1235/article/details/48598803](https://blog.csdn.net/crazy1235/article/details/48598803)
+
+重点使用：postfix
+此插件可以快速进行Log、Toast、isEmpty的代码书写。
 ###  ###
 ##五.杂项	
 ### 1.多渠道打包
