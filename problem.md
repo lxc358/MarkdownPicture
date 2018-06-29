@@ -16,7 +16,8 @@
 ####1)监听软键盘打开收起事件： 
 
 [https://blog.csdn.net/android_heng/article/details/52316942](https://blog.csdn.net/android_heng/article/details/52316942)
-
+###3.安卓属性动画
+[https://www.jianshu.com/p/2412d00a0ce4](https://www.jianshu.com/p/2412d00a0ce4)
 ##二.网络请求类
 ##三.第三方集成类
 ##四.开发工具使用类
